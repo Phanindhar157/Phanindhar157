@@ -2,11 +2,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phanindhar!;" />
 </h1>
-
-<h3 align="center">👨‍💻 A Computer Science Student from India 🇮🇳</h3>
-
-<br/>
-
 # 💫 About Me:
 👨‍💻 A Computer Science Student from India 🇮🇳<br>🎓 I’m currently pursuing B.Tech in Computer Science and Engineering at SRM University, Chennai<br>🔭 I’m working on AI-powered inventory systems and full-stack web applications<br>🌱 I’m currently learning Docker, Kubernetes, and Microservices architecture
 
