@@ -3,33 +3,34 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phanindhar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">👨‍💻 A Computer Science Student from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🎓 I’m currently pursuing **B.Tech in Computer Science and Engineering** at SRM University, Chennai  
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔭 I’m working on **AI-powered inventory systems and full-stack web applications**
+ 
+ 🌱 I’m currently learning **Docker, Kubernetes, and Microservices architecture**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+⚡ Fun fact: **The first programmer was Ada Lovelace – way back in the 1800s!**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:Phanindhar157@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/phanindhar-reddy-76578529b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/Phanindhar157" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
 
  <hr/>
  
